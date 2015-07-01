@@ -1,0 +1,2 @@
+wc is for giving you a word count, a line count, a character count and a byte count.
+-l tag is useful for giving you just the line count, which is useful when counting the items in something you've piped in
